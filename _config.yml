@@ -1,4 +1,4 @@
 name: LinuxTeam
 markdown: redcarpet
 pygments: true
-paginate: 10
+paginate: 6
